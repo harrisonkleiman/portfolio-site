@@ -46,7 +46,7 @@
     "projects": [
         {
             "title":"Let'sChat",
-            "image": "./images/project_1.png",
+            "image": "./Images/project_1.png",
             "desc": "Developed a web application that allows for real-time messaging between users. Built using the React.js library to create dynamic and reusable components. Administered Firebase hosting services in order to receive and store live data and for Google authentication. Embedded HTML and Tailwind CSS in UI styling for easy-to-understand functionality and a pleasant viewing environment for users.",
             "skills": ["JavaScript", "React", "Tailwind", "Node", "Firebase"],
             "github": "https://github.com/harrisonkleiman/LiveChatApp",
@@ -54,7 +54,7 @@
         },
         {
             "title":"OrbitSim",
-            "image": "./images/project_2.png",
+            "image": "./Images/project_2.png",
             "desc": "Simulates and visualizes the orbital path of the planets in our solar system via a 2D model. Constructed a physics model using real-time astronomical values to generate an accurate planetary orbit. Applied Pygame for the creation of computer graphics.",
             "skills": ["Python", "Pygame"],
             "github": "https://github.com/harrisonkleiman/OrbitSim-Python",
@@ -62,7 +62,7 @@
         },
         {
             "title":"Cloud.ly",
-            "image": "./images/project_3.png",
+            "image": "./Images/project_3.png",
             "desc": "Soley assembled a web application that displays the weather information of the user’s city of choice. Integrated semantic styling utilizing HTML & CSS for an instinctive UI experience. Implemented weatherAPI to parse data using Express for real-time information.",
             "skills": ["JavaScript", "HTML", "CSS"],
             "github": "https://github.com/harrisonkleiman/weather-app-capstone",
