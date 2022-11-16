@@ -1,0 +1,72 @@
+{
+    "experiences": [
+        {
+            "company": "Devmountain",
+            "title": "Student Software Engineer",
+            "duration": "Jan 2022 - Jun 2022",
+            "desc": [
+                "Successfully completed a 16-week Full Stack Software Development Program"
+            ]
+        },
+        {
+            "company": "Tesla",
+            "title": "Data Annotation Specialist",
+            "duration": "Jan 2021 - Apr 2021",
+            "desc": [
+                "Implemented autopilot labeling interface to label images critical to training the company’s deep neural network",
+                "Gained essential computer vision and machine learning knowledge to better understand how the learning algorithms use labels",
+                "Interacted with Computer-Vision Engineers to help improve the design of the labeling interface"
+            ]
+        },
+        {
+            "company": "Law Offices of ESM",
+            "title": "Summer Legal Intern/Legal Assistant",
+            "duration": "Jan 2019 - Aug 2019",
+            "desc": [
+                "Filed motions regarding matrimonial, estate, and zoning lawsuits at the Kings County Supreme & Civil Courts",
+                "Prepared and reviewed a wide range of legal documents for staff attorneys prior to and during trial preparation",
+                "Served parties in various types of lawsuits throughout the boroughs of New York City to initiate legal action"
+            ]
+        },
+        {
+            "company": "B&F Friedberg JCC",
+            "title": "Program Administrator/Athletics Director",
+            "duration": "Dec 2015 - Jan 2019",
+            "desc": [
+                "Led in daily before-school operations during early mornings and afternoons for children in grades K-2",
+                "Tutored children in their academics (Math and English) to ensure student’s full understanding of course material",
+                "Spearheaded athletic department to ensure proper lesson planning for students",
+                "Coordinated weekly teaching plans in order to lead children, ages 4-6 in their introduction to athletic activities",
+                "Reported daily to the Program Director, and Head Counselors to ensure proper methods of instruction and communication",
+                "Established meticulous guidelines to allow for a safe learning environment"
+            ]
+        }
+
+    ],
+    "projects": [
+        {
+            "title":"Let'sChat",
+            "image": "./images/project_1.png",
+            "desc": "Developed a web application that allows for real-time messaging between users. Built using the React.js library to create dynamic and reusable components. Administered Firebase hosting services in order to receive and store live data and for Google authentication. Embedded HTML and Tailwind CSS in UI styling for easy-to-understand functionality and a pleasant viewing environment for users.",
+            "skills": ["JavaScript", "React", "Tailwind", "Node", "Firebase"],
+            "github": "https://github.com/harrisonkleiman/LiveChatApp",
+            "link": "https://www.loom.com/share/9f76de96e96146dca95e3ee75700bb36"
+        },
+        {
+            "title":"OrbitSim",
+            "image": "./images/project_2.png",
+            "desc": "Simulates and visualizes the orbital path of the planets in our solar system via a 2D model. Constructed a physics model using real-time astronomical values to generate an accurate planetary orbit. Applied Pygame for the creation of computer graphics.",
+            "skills": ["Python", "Pygame"],
+            "github": "https://github.com/harrisonkleiman/OrbitSim-Python",
+            "link": "https://www.loom.com/share/106afd94adb64cdc944716d20637c87f"
+        },
+        {
+            "title":"Cloud.ly",
+            "image": "./images/project_3.png",
+            "desc": "Soley assembled a web application that displays the weather information of the user’s city of choice. Integrated semantic styling utilizing HTML & CSS for an instinctive UI experience. Implemented weatherAPI to parse data using Express for real-time information.",
+            "skills": ["JavaScript", "HTML", "CSS"],
+            "github": "https://github.com/harrisonkleiman/weather-app-capstone",
+            "link": "https://vimeo.com/701039132"
+        }
+    ]
+}
