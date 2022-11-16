@@ -24,7 +24,7 @@ function Navbar() {
 					<a 
 					href="../Images/HarrisonKleiman2022.pdf"
 					download>
-						Resume
+						Download My Resume
 					</a>
 				</button>
 				 
